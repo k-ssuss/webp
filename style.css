@@ -1,0 +1,61 @@
+body{
+    line-height: 1.7;
+    
+
+}
+h2{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color:darkslategrey
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: none;
+
+}
+.menu{
+    border-bottom: 1px orange;
+}
+ul{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0;
+    padding-inline-start: 0px;
+}
+.name{
+    text-align: center;
+    font-family: impact, sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    color:pink
+
+}
+.text{
+    padding:5px;
+    border:3px;
+    border-color: red;
+    border-style: dotted;
+    background-color: papayawhip;
+}
+.img{
+    width: 40%;
+    height: auto;
+}
+.paint{
+    background-color: rgb(255, 202, 252);
+    font-style: italic;
+    text-align: right;
+}
+.caption{
+    color: rgb(255, 61, 126);
+    font-weight: 800;
+    padding: 7px 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    font-size: medium;
+}
+
+
